@@ -22,19 +22,13 @@ affiliation: >
 #   Pasadena, CA 91125
 
 contact: >
-  <a href="mailto:miles.tay@ualberta.ca" target="_blank"><i class="fa fa-envelope fa-1x"></i>email</a> <br/>
-  <a href="https://github.com/Kilomaroon"><i class="fa fa-github fa-1x"></i>github</a>
+  <a href="mailto:miles.tay@ualberta.ca" target="_blank"><i class="fa fa-envelope fa-1x"></i> email</a> <br/>
+  <a href="https://github.com/Kilomaroon"><i class="fa fa-github fa-1x"></i> github</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  - name: experience
 
 include:
   - .htaccess
