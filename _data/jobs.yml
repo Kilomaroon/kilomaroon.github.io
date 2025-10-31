@@ -1,4 +1,24 @@
-- jobstart: 2023
-  jobend: 2025
-  name: This is JOB
-  description: hdfuhsufhuioshfiojsir
+- jobstart: January 2023
+  jobend: December 2023
+  company: SMS Equipment
+  title: Reliability Analyst
+
+- jobstart: August 2021
+  jobend: August 2024
+  company: University of Alberta
+  title: Tutor
+
+- jobstart: May 2022
+  jobend: August 2022
+  company: University of Alberta
+  title: Bridge2Engineering Instructor
+
+- jobstart: February 2022
+  jobend: August 2021
+  company: Continental Inn & Suites
+  title: Retail Staff
+
+- jobstart: August 2019
+  jobend: January 2021
+  company: Boston Pizza International Inc
+  title: Host

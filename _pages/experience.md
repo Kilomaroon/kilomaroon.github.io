@@ -5,14 +5,26 @@ sitemap: false
 permalink: /experience/
 ---
 
-# Hello World
-## Bite me
+### Research
+
+<div class="jumbotron">
+
+</div>
+
+
+### Professional
 
 <div class="jumbotron">
 {% for job in site.data.jobs %}
-<b>{{ job.jobstart }} - {{ job.jobend }}</b>
+<b>{{job.title}}, {{ job.jobstart }} - {{ job.jobend }}</b>
 
-{{ job.name }}
+{{ job.company }}
 {% endfor %}
+
+</div>
+
+### Volunteering
+
+<div class="jumbotron">
 
 </div>
