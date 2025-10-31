@@ -2,14 +2,14 @@
   photo: headshot.jpg
   info: Student, Ualberta
   email: miles.tay@ualberta.ca
-  github: https://github.com/
+  # github: https://github.com/
   # researchgate: https://www.researchgate.net/
   # scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "BSc. EEnano"
+      "BSc. Nano-Electrical Engineering (2026)"
     ]
 
   # educationshort:
