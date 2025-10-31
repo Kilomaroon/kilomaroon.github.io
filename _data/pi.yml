@@ -1,6 +1,6 @@
 - name: Miles Taylor
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
+  info: Student, Ualberta
   email: miles.tay@ualberta.ca
   github: https://github.com/
   # researchgate: https://www.researchgate.net/
@@ -9,9 +9,8 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "BSc. EEnano"
     ]
 
-  educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+  # educationshort:
+  #   ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
